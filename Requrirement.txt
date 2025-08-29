@@ -1,0 +1,16 @@
+# For making API calls to services like VirusTotal
+requests
+
+# For checking domain age
+python-whois
+
+# For building a web interface (optional)
+flask
+
+# For building a machine learning model (optional)
+scikit-learn
+numpy
+pandas
+
+You would then install these dependencies using the command:
+pip install -r requirements.txt
